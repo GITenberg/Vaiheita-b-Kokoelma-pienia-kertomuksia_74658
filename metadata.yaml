@@ -1,5 +1,8 @@
 _repo: Vaiheita-b-Kokoelma-pienia-kertomuksia_74658
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ibsen, Sigurd
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25986
     wikipedia: https://en.wikipedia.org/wiki/Sigurd_Ibsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74658#Vaiheita-b-Kokoelma-pienia-kertomuksia
 gutenberg_issued: '2024-10-29'
 gutenberg_type: Text
 identifiers:
